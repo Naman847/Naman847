@@ -4,7 +4,6 @@
 💻 Passionate about **backend development**, I work primarily with **Java**, **Spring Boot**, and **DSA**.  
 🛠️ Built a PHP-based e-commerce project called **PartSmart** during my undergrad.  
 🚀 Currently focused on mastering the **Java ecosystem** and becoming a **proficient backend engineer**.  
-🧘‍♂️ Inspired by Osho — I believe in depth, clarity, and mastering whatever I pursue.
 
 ---
 
